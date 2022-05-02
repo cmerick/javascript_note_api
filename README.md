@@ -4,3 +4,5 @@ nodemon
 mongoose
 express-generator (no-view)
 bcrypt
+jsonwebtoken
+dotenv
